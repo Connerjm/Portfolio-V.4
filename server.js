@@ -1,6 +1,8 @@
-//Imports
+//Imports.
 const express = require("express");
 const path = require("path");
+
+//Set port and app.
 const PORT = process.env.PORT || 8008;
 const app = express();
 
