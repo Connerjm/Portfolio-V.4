@@ -9,6 +9,7 @@
 
 - [Description](#description)
 - [Features](#features)
+- [Technologies](#technologies)
 - [Deployment](#deployment)
 - [License](#license)
 
@@ -21,6 +22,10 @@ An updated version of my portfolio updated to include react.
 - Simple introduction to myself.
 - Dynamic list of most recent projects pulled from GitHub.
 - Contact infomation (behind a login cause its personal, you know how it is).
+
+## Technologies
+
+TODO
 
 ## Deployement
 
