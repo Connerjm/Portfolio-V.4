@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer()
 {
-    return <Footer>
+    return <footer>
         <p>&copy;2021</p>
         <div>
             <a href="https://github.com/Connerjm" target="_blank" rel="noopener noreferrer">
@@ -15,5 +15,5 @@ export default function Footer()
                  Linkedin
             </a>
         </div>
-    </Footer>;
+    </footer>;
 }
