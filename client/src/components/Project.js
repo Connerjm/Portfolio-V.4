@@ -14,8 +14,8 @@ export default function Project(props)
                 </div>
             </div>
             <footer className="card-footer">
-                <a href={props.url} target="_blank" class="card-footer-item">Repo</a>
-                {props.deployment ? <a href={props.deployment} target="_blank" class="card-footer-item">Deployment</a> : <p class="card-footer-item">N/A</p>}
+                <a href={props.url} target="_blank" className="card-footer-item">Repo</a>
+                {props.deployment ? <a href={props.deployment} target="_blank" className="card-footer-item">Deployment</a> : <p className="card-footer-item">N/A</p>}
             </footer>
         </div>
     );
